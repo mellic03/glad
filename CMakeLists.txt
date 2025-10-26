@@ -16,5 +16,5 @@ set_target_properties(glad-shared PROPERTIES OUTPUT_NAME "glad")
 
 file(
     COPY "${CMAKE_CURRENT_SOURCE_DIR}/include"
-    DESTINATION "${CMAKE_BINARY_DIR}"
+    DESTINATION "${CMAKE_CURRENT_BINARY_DIR}"
 )
