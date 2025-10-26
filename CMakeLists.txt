@@ -35,6 +35,11 @@ file(
 )
 
 install(
-    FILES "${CMAKE_CURRENT_SOURCE_DIR}/include"
-    DESTINATION "include/"
+    DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/include"
+    DESTINATION "."
+)
+
+install(
+    DIRECTORY "${CMAKE_CURRENT_BINARY_DIR}/lib"
+    DESTINATION "."
 )
