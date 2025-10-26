@@ -1,0 +1,4 @@
+/home/michael/Desktop/code/C++/VANE2/glad/build/CMakeFiles/glad-static.dir
+/home/michael/Desktop/code/C++/VANE2/glad/build/CMakeFiles/glad-shared.dir
+/home/michael/Desktop/code/C++/VANE2/glad/build/CMakeFiles/edit_cache.dir
+/home/michael/Desktop/code/C++/VANE2/glad/build/CMakeFiles/rebuild_cache.dir
